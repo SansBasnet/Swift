@@ -1,3 +1,3 @@
 # Swift
 
-iOS application development projects, reading materials and more.. 
+iOS application development projects, reading materials and more.. More projects to come. 
